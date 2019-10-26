@@ -5,7 +5,12 @@ Converts spoken english (usually text transcript of a speech recognition system)
 Developed as part of the recruitment procedure held by Aganitha cognitive solutions.
 
 ### Built with
-All the implentations were carried out in [Python 3.6](https://www.python.org/downloads/release/python-360/) with the  [Jupyter notebook](https://jupyter.org/) on my local computer.
+*  [Python 3.6](https://www.python.org/downloads/release/python-360/) - Programming Language
+* [Jupyter notebook](https://jupyter.org/) - OPen source web-app for creating and sharing the code
+
+### Usage
+
+
 
 ### Features implemented
 
@@ -41,5 +46,5 @@ My email id is sai 999 aa @ gmail.com, my income is $1500.
 
 ## Authors
 
-[Saikumar Malla](https://github.com/saikumarmalla)
+* [Saikumar Malla](https://github.com/saikumarmalla)
 
