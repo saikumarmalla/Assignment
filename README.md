@@ -4,7 +4,7 @@ Converts spoken english (usually text transcript of a speech recognition system)
 ### Motivation
 Developed as part of the recruitment procedure held by Aganitha cognitive solutions.
 
-## Built with
+### Built with
 All the implentations were carried out in [Python 3.6](https://www.python.org/downloads/release/python-360/) with the  [Jupyter notebook](https://jupyter.org/) on my local computer.
 
 ### Features implemented
