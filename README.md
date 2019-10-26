@@ -31,12 +31,12 @@ This is the initial phase of developement, the following features are implemente
 ### Test cases 
 Example text : 
 ```
-My email id is sai triple nine double a at the rate gmail dot com comma my income is fifteen hundred dollars.
+Hello exclamation mark I am saikumar, I wont study twenty four by seven. my income is thirty five thousand rupees it is equal to five hundred dollars. my email is sai at the rate gmail dot com. My contact number is double nine eight nine two triple three zero four. I was interested in double i t s and triple i t s.
 
 ```
 Output :
 ```
-My email id is sai 999 aa @ gmail.com, my income is $1500.
+Hello ! I am saikumar, I cant study 24 / 7. my income is ₹35000 it is equal to $500. my email is sai @ gmail. com. My contact number is 9989233304. I was interested in iits and iiits.
 ```
 
 ### Usage
