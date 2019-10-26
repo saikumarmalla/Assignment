@@ -5,7 +5,7 @@ Converts spoken english (usually text transcript of a speech recognition system)
 Developed as part of the recruitment procedure held by Aganitha cognitive solutions.
 
 ## Built with
-All the implentations are carried out in [Python 3.6](https://www.python.org/downloads/release/python-360/) in jupyter notebook on my local computer.
+All the implentations are carried out in [Python 3.6](https://www.python.org/downloads/release/python-360/) in  [Jupyter notebook](https://jupyter.org/) on my local computer.
 
 ### Features implemented
 
