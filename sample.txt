@@ -1,0 +1,29 @@
+In this video, we'll go over logistic regression.
+This is a learning algorithm that you use when the output labels Y
+in a supervised learning problem are all either zero or one,
+so for binary classification problems.
+Given an input feature vector X maybe corresponding to
+an image that you want to recognize as either a cat picture or not a cat picture,
+you want an algorithm that can output a prediction,
+which we'll call Y hat,
+which is your estimate of Y.
+More formally, you want Y hat to be the probability of the chance that,
+Y is equal to one given the input features X.
+So in other words, if X is a picture,
+as we saw in the last video,
+you want Y hat to tell you,
+what is the chance that this is a cat picture?
+So X, as we said in the previous video,
+is an X dimensional vector,
+given that the parameters of logistic regression will
+be W which is also an X dimensional vector,
+together with b which is just a real number.
+So given an input X and the parameters W and b,
+how do we generate the output Y hat?
+Well, one thing you could try, that doesn't work,
+would be to have Y hat be w transpose X plus B,
+kind of a linear function of the input X.
+And in fact, this is what you use if you were doing linear regression.
+But this isn't a very good algorithm for binary classification
+because you want Y hat to be the chance that Y is equal to one.
+So Y hat should really be between zero and one

@@ -1,0 +1,1 @@
+one,two,three,four,five,six,seven,eight,nine ,hundred,thousand,lakhs,crore,one,twenty,thirty,fourty,fifty,sixty,seventy,eighty,ninty,ELEVEN,TWELVE,THIRTEEN,FOURTEEN,FIFTEEN,SIXTEEN,SEVENTEEN,EIGHTEEN,NINETEEN,TWENTY,million
