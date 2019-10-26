@@ -5,20 +5,29 @@ Converts spoken english (usually text transcript of a speech recognition system)
 Developed as part of the recruitment procedure held by Aganitha cognitive solutions.
 
 ## Built with
-All the implentations are carried out in Python 3.6 in jupyter notebook in my local computer.
+All the implentations are carried out in [Python 3.6](https://www.python.org/downloads/release/python-360/) in jupyter notebook on my local computer.
 
 ### Features implemented
 
 This is the initial phase of developement, the following features are implemented and many other features will be added in future.
 
-1. Converts the words by replacing with the corresponding special symbols including currency symbols. e.g. 'dollar' can be converted into '$' ,'rupees' into '₹' and other symbols like 'exclamation mark' into '!' and many more.
+1. Converts the words by replacing with the corresponding special symbols. e.g. 'exclamation mark' as '!', 'question mark' as '?' and many more.
 
-2. Converts all the words of digits and numbers into corresponding values excluding space between. e.g. 'five hundred thirty' as '530'.
+2. Converts all the words that represents digits and numbers into corresponding values excluding space between them. e.g. 'five hundred thirty' as '530'.
 
 3. Converts all the tuple terms followed by numbers/digits by repeating the number/digit that many times. e.g. 'double three'  as '33' and 'triple a' as 'aaa'.  
 
-4. 
+4. All the currency symbols are added as prefix to the figure. e.g. 'five dollars' can be written as '$5','six rupees' as '₹6'.
+
 
 ### Features yet to be implemented
 
+1. We can include the feature maps(dicts or text files) for all the mathematical operations and formulas.
+
+2. All abbreviations can be replaced with thier meaning and vice versa.
+
+3. 
+
+
+## Authors
 
