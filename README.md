@@ -8,16 +8,6 @@ Developed as part of the recruitment procedure held by Aganitha cognitive soluti
 *  [Python 3.6](https://www.python.org/downloads/release/python-360/) - Programming Language
 * [Jupyter notebook](https://jupyter.org/) - OPen source web-app for creating and sharing the code
 
-### Usage
-#### Files
-##### convert_text_utils.py
-The functions impelemnted in this file are perfoming all utility functions ranging from pre processing of the text and convert the text into desired format.
-##### convert_text.ipynb
-The driver function for taking the input text and gives the converted text.
-##### other files 
-Remaining files contain the features that used to map with the text. 
-
-
 
 ### Features implemented
 
@@ -47,11 +37,18 @@ My email id is sai triple nine double a at the rate gmail dot com comma my incom
 Output :
 ```
 My email id is sai 999 aa @ gmail.com, my income is $1500.
-
 ```
 
+### Usage
+#### Files
+##### convert_text_utils.py
+The functions impelemnted in this file are perfoming all utility functions ranging from pre processing of the text and convert the text into desired format.
+##### convert_text.ipynb
+The driver function for taking the input text and gives the converted text.
+##### other files 
+Remaining files contain the features that used to map with the text. 
 
-## Authors
 
-* [Saikumar Malla](https://github.com/saikumarmalla)
+
+
 
