@@ -1,7 +1,7 @@
 # Text Conversion
 Converts spoken english (usually text transcript of a speech recognition system) into written english. 
 
-## Motivation
+### Motivation
 Developed as part of the recruitment procedure held by Aganitha cognitive solutions.
 
 ## Built with
@@ -26,6 +26,17 @@ This is the initial phase of developement, the following features are implemente
 
 2. All abbreviations can be replaced with thier meaning.
 
+#### Test cases 
+Example text : 
+```
+My email id is sai triple nine double a at the rate gmail dot com comma my income is fifteen hundred dollars.
+
+```
+Output :
+```
+My email id is sai 999 aa @ gmail.com, my income is $1500.
+
+```
 
 
 ## Authors
