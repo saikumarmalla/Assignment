@@ -5,7 +5,7 @@ Converts spoken english (usually text transcript of a speech recognition system)
 Developed as part of the recruitment procedure held by Aganitha cognitive solutions.
 
 ## Built with
-All the implentations are carried out in [Python 3.6](https://www.python.org/downloads/release/python-360/) in  [Jupyter notebook](https://jupyter.org/) on my local computer.
+All the implentations were carried out in [Python 3.6](https://www.python.org/downloads/release/python-360/) with the  [Jupyter notebook](https://jupyter.org/) on my local computer.
 
 ### Features implemented
 
@@ -24,10 +24,11 @@ This is the initial phase of developement, the following features are implemente
 
 1. We can include the feature maps(dicts or text files) for all the mathematical operations and formulas.
 
-2. All abbreviations can be replaced with thier meaning and vice versa.
+2. All abbreviations can be replaced with thier meaning.
 
-3. 
 
 
 ## Authors
+
+[Saikumar Malla](https://github.com/saikumarmalla)
 
