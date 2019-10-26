@@ -36,7 +36,7 @@ Hello exclamation mark I am saikumar, I wont study twenty four by seven. my inco
 ```
 Output :
 ```
-Hello ! I am saikumar, I cant study 24 / 7. my income is ₹35000 it is equal to $500. my email is sai @ gmail. com. My contact number is 9989233304. I was interested in iits and iiits.
+Hello ! I am saikumar, I wont study 24 / 7. my income is ₹35000 it is equal to $500. my email is sai @ gmail. com. My contact number is 9989233304. I was interested in iits and iiits.
 ```
 
 ### Usage
