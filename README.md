@@ -26,7 +26,7 @@ This is the initial phase of developement, the following features are implemente
 
 2. All abbreviations can be replaced with thier meaning.
 
-#### Test cases 
+### Test cases 
 Example text : 
 ```
 My email id is sai triple nine double a at the rate gmail dot com comma my income is fifteen hundred dollars.
