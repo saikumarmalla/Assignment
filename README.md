@@ -43,7 +43,7 @@ The functions impelemnted in this file are perfoming all utility functions rangi
 ##### convert_text.ipynb
 The driver function for taking the input text and gives the converted text.
 ##### other files 
-Remaining files contain the features that used to map with the text. 
+Remaining files contain the features that are used to map with the text. 
 
 
 
