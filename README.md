@@ -3,7 +3,7 @@ Converts spoken english (usually text transcript of a speech recognition system)
 
 ### Built with
 *  [Python 3.6](https://www.python.org/downloads/release/python-360/) - Programming Language
-* [Jupyter notebook](https://jupyter.org/) - OPen source web-app for creating and sharing the code
+* [Jupyter notebook](https://jupyter.org/) - Open source web-app for creating and sharing the code
 
 
 ### Features implemented
