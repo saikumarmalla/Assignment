@@ -1,9 +1,6 @@
 # Text Conversion
 Converts spoken english (usually text transcript of a speech recognition system) into written english. 
 
-### Motivation
-Developed as part of the recruitment procedure held by Aganitha cognitive solutions.
-
 ### Built with
 *  [Python 3.6](https://www.python.org/downloads/release/python-360/) - Programming Language
 * [Jupyter notebook](https://jupyter.org/) - OPen source web-app for creating and sharing the code
