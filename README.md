@@ -23,7 +23,7 @@ This is the initial phase of developement, the following features are implemente
 
 1. We can include the feature maps(dicts or text files) for all the mathematical operations and formulas.
 
-2. All abbreviations can be replaced with thier meaning.
+2. Abbreviations can be replaced with thier meaning.
 
 ### Test cases 
 Example text : 
